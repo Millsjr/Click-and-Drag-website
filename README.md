@@ -1,8 +1,8 @@
 # Click-and-Drag-website
 
-# Have you ever wanted to have a COOL website design???
+### Have you ever wanted to have a COOL website design???
 
-## A fun Click and Drag style website that can allow you to use photo slides and introduce fun pages.
+### A fun Click and Drag style website that can allow you to use photo slides and introduce fun pages.
 
 
 
